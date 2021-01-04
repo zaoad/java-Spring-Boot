@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Dec 26 23:07:16 BDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-a004-c4da-000008ac1790 
+on database directory memory:/home/zaoad/eclipse-workspace/jpa-demo/003557e6-8785-42cb-ab6b-797233073814 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/zaoad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.9.1+1-Ubuntu-0ubuntu1.18.04
+user.dir=/home/zaoad/eclipse-workspace/jpa-demo
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-128-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

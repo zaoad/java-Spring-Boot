@@ -1,0 +1,9 @@
+zaoad/project/jpademo/topics/TopicService.class
+zaoad/project/jpademo/topics/TopicController.class
+zaoad/project/jpademo/JpaDemoApplication.class
+zaoad/project/jpademo/topics/TopicRepository.class
+zaoad/project/jpademo/courses/Course.class
+zaoad/project/jpademo/courses/CourseController.class
+zaoad/project/jpademo/courses/CourseService.class
+zaoad/project/jpademo/courses/CourseRepository.class
+zaoad/project/jpademo/topics/Topic.class

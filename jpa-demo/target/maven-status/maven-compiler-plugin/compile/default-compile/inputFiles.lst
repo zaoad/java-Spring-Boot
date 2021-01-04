@@ -1,0 +1,9 @@
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/courses/CourseController.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/JpaDemoApplication.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/courses/Course.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/courses/CourseRepository.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/topics/TopicController.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/topics/TopicRepository.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/courses/CourseService.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/topics/TopicService.java
+/home/zaoad/eclipse-workspace/jpa-demo/src/main/java/zaoad/project/jpademo/topics/Topic.java
