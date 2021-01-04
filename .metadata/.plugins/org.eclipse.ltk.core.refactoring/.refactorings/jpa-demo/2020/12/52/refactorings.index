@@ -1,0 +1,11 @@
+1608969590593	Delete element
+1608970657442	Rename package 'zaoad.project.topics'
+1608970679922	Rename package 'zaoad.project.jpademp.topics'
+1608984767687	Copy package
+1608984790954	Rename type 'Topic'
+1608984808934	Rename type 'TopicController'
+1608984835777	Rename type 'TopicRepository'
+1608984848654	Rename type 'TopicService'
+1608984984962	Rename field 'topicService'
+1608985055476	Rename method 'getTopics'
+1608988183927	Rename field 'topicRepository'

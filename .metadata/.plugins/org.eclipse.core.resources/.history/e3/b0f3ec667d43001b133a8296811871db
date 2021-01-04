@@ -1,0 +1,21 @@
+package io.javabrains.springbootstarter.topic;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import io.javabrains.springbootstarter.hello.Topic;
+
+public class TopicController {
+	@RequestMapping("/Topic")
+	public List<Topic> getTopic()
+	{
+		return Arrays.asList(
+				new Topic("1","java","object oriented"),
+				new Topic("2", "C++","programming language"),
+				new Topic("3","python","high level language")
+			
+				);
+	}
+}
